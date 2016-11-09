@@ -1,0 +1,2 @@
+# CS9544-2dOrthogonalPacking
+The two-dimensional orthogonal bin packing problem (2OPP) poses the question of whether a set of rectangles (items) can be packed into a single, larger rectangle of fixed size (bin). This is an NP-complete problem. Two exact algorithms: LMAO and TSBP were presented by Clatiaux et al [1]. This paper presents these algorithms again alongside a Python animation to better visualize their execution for teaching and improving these algorithms.
